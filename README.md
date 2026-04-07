@@ -89,7 +89,6 @@
 |--------|-------------|-------|
 | **Face Anti-Spoofing** | Fine-tuned Swin Transformer for real vs. spoof detection. Evaluated model robustness under adversarial attacks (FGSM, PGD) on imbalanced datasets. | PyTorch, scikit-learn |
 | **AI Email Assistant** | Automated Gmail classification and response workflows with prompt injection protection and secure data validation pipelines. | Python, n8n, Gmail API |
-| **Metal Grade Prediction** | Built a Random Forest model on industrial sensor data (temperature, vibration, Cu/Zn/Pb grades) at MANAGEM Group. Deployed Power BI dashboards for operational monitoring. | Python, pandas, Power BI |
 | **Speak Your Hands** | End-to-end gesture recognition pipeline — data processing, model training, inference — containerized with Docker for reproducibility. | TensorFlow, JavaFX, Docker |
 | **Virtual Store AR** | Augmented reality mobile app with structured local database management for in-store product visualization. | Kotlin, ARCore, SQLite |
 | **Transport Demand Prediction** | Feature engineering and predictive modeling on public transport datasets to estimate demand patterns. | Python, pandas, scikit-learn |
