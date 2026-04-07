@@ -4,6 +4,7 @@
 
 <p align="center">
   I specialize in end-to-end machine learning workflows, from raw data to deployed models.
+  
   Open to internship opportunities in AI / Data Science.
 </p>
 
@@ -20,15 +21,7 @@
 
 ---
 
-### About Me
 
-- Currently working on a **Face Anti-Spoofing** system with Swin Transformers and adversarial robustness testing
-- Also building a **Virtual Store AR app** using ARCore and Kotlin
-- Interned at **MANAGEM Group** — cleaned industrial sensor data and built a Random Forest model for metal grade prediction
-- Strong in **Python, ML pipelines, computer vision**, and operational dashboards with Power BI
-- Languages: Arabic (Native) · French (Advanced) · English (Advanced)
-
----
 
 ### Languages & Tools
 
