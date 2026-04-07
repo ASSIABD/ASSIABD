@@ -1,17 +1,16 @@
 <h1 align="center">Hi, I'm Assia Bendaou</h1>
 
-<h3 align="center">AI & Data Science Engineering Student — Building ML pipelines that work in the real world</h3>
+<h3 align="center">AI & Data Science Engineering Student </h3>
 
 <p align="center">
-  I specialize in end-to-end machine learning workflows, from messy raw data to deployed models.
-  Currently fine-tuning vision transformers and building AR mobile applications.
+  I specialize in end-to-end machine learning workflows, from raw data to deployed models.
   Open to internship opportunities in AI / Data Science.
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="linkedin.com/in/assia-bendaou" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="YOUR_PORTFOLIO_URL" target="_blank">
