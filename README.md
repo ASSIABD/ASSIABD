@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Assia Bendaou</h1>
 
-<h3 align="center">AI & Data Science Engineering Student </h3>
-
+<h3 align="center">AI & Data Science Engineering Student</h3>
 <p align="center">
-  I specialize in end-to-end machine learning workflows, from raw data to deployed models.
-  
-          Open to internship opportunities in AI / Data Science.
+  I specialize in end-to-end machine learning workflows, from raw data to deployed models.<br/>
+  Open to internship opportunities in AI / Data Science.
 </p>
 
 <br/>
