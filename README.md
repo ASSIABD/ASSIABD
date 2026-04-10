@@ -4,6 +4,7 @@
 
 <p align="center">
   I specialize in end-to-end machine learning workflows, from raw data to deployed models.
+  
    Open to internship opportunities in AI / Data Science.
 </p>
 
