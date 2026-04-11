@@ -76,6 +76,7 @@
 |--------|-------------|-------|
 | **[Generative AI Blog](https://assiabd.github.io/GenAI_Blog/)** | ELI5-style educational blog explaining Generative AI in Computer Vision  covering GANs, VAEs, and Diffusion Models with visuals and analogies. | HTML, CSS, GitHub Pages |
 | **Face Anti-Spoofing** | Fine-tuned Swin Transformer for real vs. spoof detection. Evaluated model robustness under adversarial attacks (FGSM, PGD) on imbalanced datasets. | PyTorch, scikit-learn |
+| Virtual Store AR | Contributed to an AR-based virtual shopping app. Worked on UI refactoring and AR integration features. | Android, AR, Kotlin |
 | **AI Email Assistant** | Automated Gmail classification and response workflows with prompt injection protection and secure data validation pipelines. | Python, n8n, Gmail API |
 | **Speak Your Hands** | End-to-end gesture recognition pipeline, data processing, model training, inference — containerized with Docker for reproducibility. | TensorFlow, JavaFX, Docker |
 | **Virtual Store AR** | Augmented reality mobile app with structured local database management for in-store product visualization. | Kotlin, ARCore, SQLite |
