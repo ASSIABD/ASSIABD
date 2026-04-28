@@ -58,7 +58,6 @@ Open to internship opportunities in AI / Data Science.</p>
 |--------------|--------|------|
 | OCI AI Foundations Associate | Oracle | 2025 |
 | OCI Data Science Professional | Oracle | 2025 |
-| Supervised Machine Learning | Coursera | 2025 |
 
 ---
 
