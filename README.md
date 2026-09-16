@@ -4,7 +4,7 @@
 
 <p><em>AI & Data Science Engineering Student</em></p>
 
-<p>End-to-end machine learning workflows — from raw data to deployed models.<br/>
+<p>End-to-end machine learning workflows, from raw data to deployed models.<br/>
 Open to internship opportunities in AI / Data Science.</p>
 
 <p>
