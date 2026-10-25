@@ -47,7 +47,7 @@ Open to internship opportunities in AI / Data Science.</p>
 | **Face Anti-Spoofing** | Fine-tuned Swin Transformer for real vs. spoof detection. Evaluated model robustness under adversarial attacks (FGSM, PGD) on imbalanced datasets. | `PyTorch` `scikit-learn` |
 | **Virtual Store AR** | Augmented reality mobile app with structured local database management for in-store product visualization. | `Kotlin` `ARCore` `SQLite` |
 | **AI Email Assistant** | Automated Gmail classification and response workflows with prompt injection protection and secure data validation pipelines. | `Python` `n8n` `Gmail API` |
-| **Speak Your Hands** | End-to-end gesture recognition pipeline — data processing, model training, inference containerized with Docker for reproducibility. | `TensorFlow` `JavaFX` `Docker` |
+| **Speak Your Hands** | End-to-end gesture recognition pipeline, data processing, model training, inference containerized with Docker for reproducibility. | `TensorFlow` `JavaFX` `Docker` |
 | **Transport Demand Prediction** | Feature engineering and predictive modeling on public transport datasets to estimate demand patterns. | `Python` `pandas` `scikit-learn` |
 
 ---
